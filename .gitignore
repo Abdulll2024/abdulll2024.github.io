@@ -1,7 +1,5 @@
 # Private files that must never be published: the repository is public.
 *.pdf
-design-prompts.md
 .claude/
-image.png
 assets/My Image.png
 /*.png
