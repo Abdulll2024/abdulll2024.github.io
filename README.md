@@ -1,4 +1,4 @@
-# sauravkumar: personal website
+# Saurav Kumar: personal website
 
 A static website: plain HTML, CSS and JavaScript, with no build step and no
 server. It is hosted free on GitHub Pages.
