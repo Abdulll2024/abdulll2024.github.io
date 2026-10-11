@@ -1628,7 +1628,7 @@ fieldset.field {
 }
 
 .post {
-  max-width: 760px;
+  max-width: none;
 }
 
 .post-body {
