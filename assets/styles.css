@@ -1406,6 +1406,8 @@ details.case + details.case {
   min-height: calc(100vh - 73px);
   min-height: calc(100svh - 73px);
   padding-block: calc(73px + 24px) 24px;
+  /* A link to this section scrolls all the way to the end of the page. */
+  scroll-margin-top: -119px;
 }
 
 .cta > .container {
