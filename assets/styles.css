@@ -158,7 +158,7 @@ h3 {
   z-index: 100;
   padding: 10px 16px;
   background: #fff;
-  color: var(--ink);
+  color: #0f172a;
   border-radius: 8px;
 }
 
@@ -348,14 +348,15 @@ h3,
   color: #fff;
 }
 
+/* White buttons sit on dark panels in both themes, so their text colour is fixed. */
 .btn-light {
   background: #fff;
-  color: var(--ink);
+  color: #0f172a;
 }
 
 .btn-light:hover {
-  background: var(--blue-tint);
-  color: var(--ink);
+  background: #e3ecff;
+  color: #0f172a;
 }
 
 .btn-ghost {
